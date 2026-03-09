@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/credit_default_ml/notebooks/mlruns/333312037087580411/a6ad9aa56042432482f96a29c90cc62e/artifacts
+end_time: 1772700106425
+entry_point_name: ''
+experiment_id: '333312037087580411'
+lifecycle_stage: active
+run_id: a6ad9aa56042432482f96a29c90cc62e
+run_name: logreg_C_0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772700103487
+status: 3
+tags: []
+user_id: Balakumaran K

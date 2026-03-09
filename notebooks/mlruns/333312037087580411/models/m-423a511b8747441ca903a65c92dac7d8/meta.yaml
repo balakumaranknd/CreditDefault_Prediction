@@ -1,0 +1,10 @@
+artifact_location: file:///E:/credit_default_ml/notebooks/mlruns/333312037087580411/models/m-423a511b8747441ca903a65c92dac7d8/artifacts
+creation_timestamp: 1772700109356
+experiment_id: '333312037087580411'
+last_updated_timestamp: 1772700112175
+model_id: m-423a511b8747441ca903a65c92dac7d8
+model_type: null
+name: model
+source_run_id: c29dd1f4329c4891a308f22fe9231cbd
+status: 2
+status_message: null
